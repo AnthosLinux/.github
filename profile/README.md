@@ -1,6 +1,6 @@
-# Quark GNU/Linux
+# Anthos GNU/Linux
 
-Quark GNU/Linux is a community of developers dedicated to developing and promoting a secure, privacy-oriented, and user-friendly GNU/Linux distribution. We believe in the power of open source software and the importance of providing users with a reliable and customizable operating system.
+Anthos GNU/Linux is a community of developers dedicated to developing and promoting a secure, privacy-oriented, and user-friendly GNU/Linux distribution. We believe in the power of open source software and the importance of providing users with a reliable and customizable operating system.
 
 Our mission is to create a Linux distribution that:
 
@@ -14,9 +14,9 @@ Our mission is to create a Linux distribution that:
 
 As an organization, we support and participate in several projects related to our GNU/Linux distribution. Our key repositories include:
 
-- [Quark GNU/Linux Distro](https://github.com/QuarkLinux/quarklinux): The core repository for our Linux distribution, containing the source code, build scripts, and documentation.
-- [Quark GNU/Linux Website](soon): The source code for our official website, where you can find news, tutorials, and download links.
-- [Quark GNU/Linux Wiki](soon): Our community Wiki for for documentation, tutorials, and FAQs
+- [Anthos GNU/Linux Distro](https://github.com/AnthosLinux/anthoslinux): The core repository for our Linux distribution, containing the source code, build scripts, and documentation.
+- [Anthos GNU/Linux Website](soon): The source code for our official website, where you can find news, tutorials, and download links.
+- [Anthos GNU/Linux Wiki](soon): Our community Wiki for for documentation, tutorials, and FAQs
 
 Feel free to explore our repositories and contribute to our projects. We welcome contributions from developers, designers, testers, and anyone interested in improving our GNU/Linux distribution.
 
@@ -31,7 +31,7 @@ If you're new to Eden Linux or open-source development, here are some resources 
 
 We encourage you to join the Eden Linux community:
 
-- Follow us on [Telegram](https://t.me/QuarkLinux) for updates and news.
+- Follow us on [Telegram](https://t.me/AnthosLinux) for updates and news.
 - Participate in discussions on our [Forum](https://discord.gg/9gtASQyAUB).
 - Contribute to our projects by submitting pull requests and reporting issues.
 
