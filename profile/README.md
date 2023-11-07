@@ -41,4 +41,4 @@ Together, we can build a better Linux distribution that respects user privacy an
 
 Our projects are open-source and licensed under the [LGPL-2.1 ](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html). Feel free to use, modify, and distribute our code in accordance with the license terms.
 
-**Thank you for your interest in Calculus Linux!**
+**Thank you for your interest in Anthos Linux!**
