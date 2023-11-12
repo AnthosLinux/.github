@@ -15,7 +15,7 @@ Our mission is to create a Linux distribution that:
 As an organization, we support and participate in several projects related to our GNU/Linux distribution. Our key repositories include:
 
 - [Anthos GNU/Linux Distro](https://github.com/AnthosLinux/anthoslinux): The core repository for our Linux distribution, containing the source code, build scripts, and documentation.
-- [Anthos GNU/Linux Website](soon): The source code for our official website, where you can find news, tutorials, and download links.
+- [Anthos GNU/Linux Website](https://anthoslinux.vercel.app/): The source code for our official website, where you can find news, tutorials, and download links.
 - [Anthos GNU/Linux Wiki](soon): Our community Wiki for for documentation, tutorials, and FAQs
 
 Feel free to explore our repositories and contribute to our projects. We welcome contributions from developers, designers, testers, and anyone interested in improving our GNU/Linux distribution.
